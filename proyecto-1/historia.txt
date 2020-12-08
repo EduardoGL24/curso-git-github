@@ -26,6 +26,6 @@ git reset <número de commit> --soft: Volvemos a un commit viejo pero conservamo
 
 git reset <número de commit> --hard: Volvemos a un commit viejo pero se borra lo que este en staying (Lo que se haya agregado con "git add") y la historia de commits que haya despues de ese commit del archivo
 
-git checkout <número de commit>: Nos lleva al commit que le pongamos pero no cambia nada a menos que guardemos el archivo como nos lo muestra y en ese caso se perderia lo demás pero podriamos volver a como estaba en otro commit mas adelate
+git checkout <número de commit> <file>: Nos trae (A master) como estaba ese archivo en ese commit y si lo queremos guardar en master solo le damos guardar y lo agregamos a un nuevo commit como normalmente se hace
 
 git checkout <branch>: Nos lleva al HEAD de esa branch
