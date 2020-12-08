@@ -3,3 +3,17 @@ git log:
 commit 53086f53cdeb02b6d018c2a8dcc270f05c3b5603 (HEAD -> master) --> Muestra el HEAD (última versión) y de que branch es
 Author: eduardogl <eduardo.gl24@hotmail.com>
   Date: Mon Dec 7 22:08:31 2020 -0600
+
+  git show:
+  index bc66a55..760d5de 100644
+  --- a/proyecto-1/historia.txt
+  +++ b/proyecto-1/historia.txt
+  @@ -16,4 +16,4 @@ git config --global user.email: cambia de manera global el email del usuario, se
+
+  git log: se usa para ver la historia de nuestros archivos, los commits, el usuario que lo cambió, cuando se realizaron
+  los cambios etc. seguidamente ponemos el nombre de nuestro archivo. --> LINEA DE ARRIBA DE DONDE ESTÄ EL CAMBIO
+
+  -git show <Archivo>: Muestra los cambios que se hciieron en el archivo --> Como estaba la linea antes
+    \ No newline at end of file
+    +git show <Archivo>: Muestra los cambios que se hicieron en el archivo en el último commit --> Como está la línea
+      nueva
