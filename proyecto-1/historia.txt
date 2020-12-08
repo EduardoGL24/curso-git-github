@@ -16,4 +16,4 @@ git config --global user.email: cambia de manera global el email del usuario, se
 
 git log: se usa para ver la historia de nuestros archivos, los commits, el usuario que lo cambió, cuando se realizaron los cambios etc. seguidamente ponemos el nombre de nuestro archivo.
 
-git show <Archivo>: Muestra los cambios que se hciieron en el archivo
+git show <Archivo>: Muestra los cambios que se hicieron en el archivo en el último commit
