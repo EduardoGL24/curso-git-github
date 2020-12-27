@@ -28,4 +28,4 @@ git reset <número de commit> --hard: Volvemos a un commit viejo pero se borra l
 
 git checkout <número de commit> <file>: Nos trae (A master) como estaba ese archivo en ese commit y si lo queremos guardar en master solo le damos guardar y lo agregamos a un nuevo commit como normalmente se hace
 
-git checkout <branch>: Nos lleva al HEAD de esa branch
+git checkout <branch> <file>: Nos lleva al HEAD de esa branch
