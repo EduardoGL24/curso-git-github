@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: red;
     text-align: center;
     font-family: 'Gill Sans';
     font-size: 16px;
@@ -27,7 +27,7 @@ body
 
 #container
 {
-    width: 70%;
+    width: 80%;
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
