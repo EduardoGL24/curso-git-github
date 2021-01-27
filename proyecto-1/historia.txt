@@ -37,8 +37,3 @@ master 2
 experimento 1
 
 experimento 2
-<<<<<<< HEAD
-=======
-
-master 1
->>>>>>> 8097910... exp 2
