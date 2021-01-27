@@ -33,3 +33,7 @@ git checkout <branch> <file>: Nos lleva al HEAD de esa branch
 master 1
 
 master 2
+
+experimento 1
+
+experimento 2
