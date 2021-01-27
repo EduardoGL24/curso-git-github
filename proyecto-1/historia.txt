@@ -31,3 +31,5 @@ git checkout <número de commit> <file>: Nos trae (A master) como estaba ese arc
 git checkout <branch> <file>: Nos lleva al HEAD de esa branch
 
 master 1
+
+master 2
